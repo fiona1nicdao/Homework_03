@@ -21,4 +21,4 @@ Click on [webpage](https://fiona1nicdao.github.io/Homework_03/) to view.
 ![pw-4](./images/pw-4.png)
 ![pw-5](./images/pw-5.png)
 ![pw-6](./images/pw-6.png)
-![pw-7](./images/pw-7.png)
+![pw-final](./images/pw-final.png)
