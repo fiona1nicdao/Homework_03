@@ -1,6 +1,5 @@
-# Homework_03
-
 # Password Generator
+# Week 3 JavaScript 
 
 ## Objectives 
 - make a password generator 
