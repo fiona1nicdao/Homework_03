@@ -11,7 +11,7 @@
 - passworld must be displayed on an alert or on the window page 
 
 ## Link to Password Generator 
-Click on [webpage](https://fiona1nicdao.github.io/Homework_03/) to view. 
+Click on [webpage](https://fiona1nicdao.github.io/Password-generator/) to view. 
 
 ## Preview 
 ![pw-1](./images/pw-1.png)
