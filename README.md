@@ -21,3 +21,6 @@ Click on [webpage](https://fiona1nicdao.github.io/Password-generator/) to view.
 ![pw-5](./images/pw-5.png)
 ![pw-6](./images/pw-6.png)
 ![pw-final](./images/pw-final.png)
+
+# Questions 
+Please contact me direclty via the github [fiona1nicdao](<https://github.com/fiona1nicdao>) 
